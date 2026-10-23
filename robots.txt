@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wzg815.github.io/ai-ugc-tools/sitemap.xml
