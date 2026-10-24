@@ -17,7 +17,7 @@ Unlike generic listicles, this repository audits the **actual legal Terms of Ser
 2. [Critical Commercial Licensing & ToS Traps (Read Before Running Paid Ads)](#-critical-commercial-licensing--tos-traps-read-before-running-paid-ads)
 3. [All 34 AI UGC & Avatar Video Tools Comparison Leaderboard](#-all-34-ai-ugc--avatar-video-tools-comparison-leaderboard)
 4. [The "Hybrid 3-Beat Sandwich" Formula That Actually Converts](#-the-hybrid-3-beat-sandwich-formula-that-actually-converts)
-5. [Done-For-You Hybrid AI UGC Video Ads ($30–$220)](#-done-for-you-hybrid-ai-ugc-video-ads-30220)
+5. [Done-For-You Video Production Services (AI UGC Ads $30+ & Viral Shorts Repurposing $15+)](#-done-for-you-video-production-services-ai-ugc-ads-30--viral-shorts-repurposing-15)
 6. [Automated China Factory & Yiwu Sourcing Scrapers (Apify + MCP Server)](#-automated-china-factory--yiwu-sourcing-scrapers-apify--mcp-server)
 7. [Contributing & Updating Data](#-contributing--updating-data)
 
@@ -114,12 +114,13 @@ Across hundreds of e-commerce ad tests, the highest-ROAS creative structure is t
 
 ---
 
-## 🎬 Done-For-You Hybrid AI UGC Video Ads ($30–$220)
+## 🎬 Done-For-You Video Production Services (AI UGC Ads $30+ & Viral Shorts Repurposing $15+)
 
 Don't want to pay for 4 separate monthly SaaS subscriptions, read 30-page commercial licensing terms, or spend hours editing B-roll and kinetic captions in CapCut?
 
-We run a specialized **Done-For-You Hybrid AI UGC Video Ad Production Service** for **TikTok Shop**, **Shopify DTC**, and **Amazon FBA (Sponsored Brands Video)** sellers:
+We run two specialized **Done-For-You Video Production Services** for e-commerce brands, founders, and creators:
 
+### 1. Hybrid AI UGC Video Ads for TikTok Shop, Shopify & Amazon ($30 / $100 / $220)
 👉 **[Order on Fiverr: Create AI UGC Video Ads for Your E-Commerce Product on TikTok & Amazon](https://www.fiverr.com/chris_815/create-ai-ugc-video-ads-for-your-ecommerce-product-on-tiktok-and-amazon)**
 
 - **What You Get:** Scroll-stopping **9:16 vertical** (TikTok/Reels/Shorts) and **1:1 square** (Meta/Amazon feed) hybrid video ads combining licensed AI UGC presenters, custom conversion scripts, your real product photos/B-roll, native captions, and frame-by-frame quality control.
@@ -127,6 +128,15 @@ We run a specialized **Done-For-You Hybrid AI UGC Video Ad Production Service** 
   - **$30 Starter Pack:** 1 complete hybrid AI UGC video ad + scriptwriting + full commercial ad rights (ideal for validating a new SKU).
   - **$100 Growth Testing Pack:** Multi-hook variation bundle (test 3–4 opening hooks against your core product demo to find the lowest CPA).
   - **$220 Full Scale Pack:** Complete multi-angle creative testing batch for scaling TikTok Shop GMV Max & Meta Advantage+ campaigns.
+
+### 2. Podcast & YouTube Repurposing into Viral TikToks, Reels & Shorts ($15 / $45 / $120)
+👉 **[Order on Fiverr: Repurpose Your Podcast or YouTube Video into Viral TikTok Reels and Shorts](https://www.fiverr.com/chris_815/repurpose-your-podcast-or-youtube-video-into-viral-tiktok-reels-and-shorts)**
+
+- **What You Get:** Turn long-form podcasts, interviews, webinars, or founder YouTube videos into high-retention 9:16 vertical clips with viral hook selection, dynamic face-tracking crop, Hormozi/TikTok-style animated captions, and B-roll overlays.
+- **Transparent Tiers:**
+  - **$15 Starter Pack:** 3 viral vertical clips (TikTok / Reels / YouTube Shorts).
+  - **$45 Growth Pack:** 10 viral vertical clips with animated captions & hook optimization.
+  - **$120 Monthly Scale Pack:** 30 viral vertical clips for daily omnichannel short-form publishing.
 
 ---
 
